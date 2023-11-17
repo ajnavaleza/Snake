@@ -1,0 +1,38 @@
+body {
+    background-color: #003b49;
+}
+
+h1 {
+    color: #d6d2c4;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: #d6d2c4;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#score {
+    color: #d6d2c4;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-right: 600px;
+}
+
+canvas {
+    margin: auto;
+    box-shadow: black 20px 10px 50px;
+}
+
+button {
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div {
+    text-align: center;
+}
